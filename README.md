@@ -2,3 +2,4 @@
 
 ## Hello there! 
 I'm third-year student at Bauman Moscow State University and beginning backend developer currently on C# .NET. I'm interested in databases, web, assembly and OS. You can contact me [here](https://t.me/Pajiloy_Lis "t.me").
+In addition here is my [cf](https://codeforces.com/profile/Bugakov_Ivan "Codeforces").
